@@ -121,7 +121,7 @@ Personal site built with React, Tailwind CSS & Framer Motion — the front door 
 ## 🤝 Let's Build Something
 
 <div align="center">
-<img src="./handshake.png" width="280" />
+<img src="./handshake.jpg" width="280" />
 </div>
 
 <br>
