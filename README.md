@@ -1,3 +1,28 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nischal+KC;Computer+Engineering+Student;Building+in+the+dark%2C+shipping+in+the+open;AI+%C3%97+DevOps+%C3%97+Systems" alt="Typing SVG" />
+
+### 🧭 Engineer in training. Architect at heart.
+
+<p>
+  <img src="https://img.shields.io/badge/status-building_in_stealth-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/based_in-Nepal-1c1c1c?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninju10.ninju10&style=for-the-badge&color=8A2BE2&text=PROFILE+VIEWS" />
+</p>
+
+</div>
+
+<br>
+
+## 🗝️ The Signal
+
+```
+> whoami
+Nischal KC — Computer Engineering student, Himalayan College of Engineering
+Threading together software, intelligence, and infrastructure.
+Not chasing hype. Chasing systems that actually hold weight.
+```
+
 I build things that sit at the intersection of **software, intelligence, and infrastructure** —
 part developer, part systems thinker, part someone who reads documentation for fun at 2am.
 Currently deep in the DSA-and-distributed-systems trenches, plotting a path toward
