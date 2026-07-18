@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/status-building_in_stealth-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/based_in-Nepal-1c1c1c?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ninju10&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninju10.ninju10&style=for-the-badge&color=8A2BE2&text=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -69,6 +69,10 @@ mission:     Become the engineer who ships systems that scale — not just demos
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8A2BE2)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8A2BE2)
 ![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8A2BE2)
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,tailwind,django,postgres,git,github,docker,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -135,14 +139,6 @@ Personal site built with React, Tailwind CSS & Framer Motion — the front door 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninju10&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=c9d1d9" width="95%"/>
 
-</div>
-
-<br>
-
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ninju10&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 <br>
