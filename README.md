@@ -152,7 +152,7 @@ Personal site built with React, Tailwind CSS & Framer Motion — the front door 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2)](https://instagram.com/nischal_kc10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/nischal-kc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/nischal-kc-90917a317/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:kcnischal255@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/ninju10)
 
